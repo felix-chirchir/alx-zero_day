@@ -1,1 +1,1 @@
-My second commit updated today
+software engineering journey
